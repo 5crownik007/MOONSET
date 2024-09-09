@@ -9,7 +9,7 @@ body, div, main, section, article {
 
 /* universal background color */
 body {
-  background-color: #DA5437; 
+  background-color: #252525; 
 }
 
 /* header image */
@@ -29,7 +29,7 @@ header img {
 
 /* header font */
 #showComic, header, h1, h2, h3, h4, h5 {
-  font-family: 'Cherry Cream Soda', cursive;
+  font-family: 'Advent Pro', medium;
 }
 
 /* body font */
@@ -179,7 +179,7 @@ header #nav {
 
 /* FOOTER */
 footer {
-  color: #421a1a;
+  color: #FFFFFF;
   margin-top: 12px;
   margin-bottom: 15px;
   float: left;
